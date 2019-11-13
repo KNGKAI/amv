@@ -1,0 +1,23 @@
+; -------------
+; exemple.avm -3
+; -------------
+
+push int8(33)
+push int8(112)
+push int8(111)
+push int8(108)
+push int8(112)
+
+print
+pop
+print
+pop
+print
+pop
+print
+pop
+print
+pop
+exit
+
+;;
